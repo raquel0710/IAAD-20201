@@ -1,0 +1,1 @@
+Banco de Dados se trata de um coleção de dados inter-relacionados, em que juntos representam informações sobre algo específico. Já o Sistema de Gerenciamento de Dados se trata de um software que é utilizado para auxiliar na manipulação das informações dos dados. 
